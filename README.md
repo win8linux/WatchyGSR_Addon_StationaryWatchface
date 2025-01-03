@@ -11,6 +11,6 @@ git submodule add https://github.com/win8linux/WatchyGSR_Addon_StationaryWatchfa
 ```
 2. Add the following include to `src/GSR.ino` in Watchy GSR:
 ```cpp
-#include "../Watchface Addons/Stationary/StationaryText.h"
+#include "../Watchface Addons/Stationary/GSRWatchFaceStationary.h"
 ```
 3. Compile!
